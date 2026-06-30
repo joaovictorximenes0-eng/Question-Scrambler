@@ -1,7 +1,7 @@
 # main.py
 import tkinter as tk
-from logic import QuizManager
-from gui import QuizApp
+from src.logic import QuizManager
+from src.gui import QuizApp
 
 if __name__ == "__main__":
     root = tk.Tk()
